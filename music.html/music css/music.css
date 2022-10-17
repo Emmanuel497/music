@@ -1,0 +1,158 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+   
+
+body{
+    background-color: rgb(16, 48, 77);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+div.create-cta{
+    text-align: center;
+   padding-top: 110px;
+    color: white;
+    font-size: 20px;
+}
+
+
+input{
+    padding-top: 5px;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 240px;
+    margin-top: 10px;
+   border-style: 0.5px solid black;
+  
+}
+
+.icon{
+    border-radius: 150px;
+    width: 90px;
+}
+
+input[type="button"]{
+    width: 150px;
+    padding-bottom: 8px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    background-color: #005b97;
+   
+}
+
+.tag{
+    width: 1200px;
+    z-index:1 ;
+}
+
+
+
+
+ @media(max-width:999px){
+
+    body{
+       background-color: rgb(16, 48, 77) ;
+      
+
+       
+    }
+
+   
+    div.create-cta{
+        text-align: center;
+        padding-top:100px;
+        color: white;
+        font-size: 20px;
+    }
+
+    input{
+        padding-top: 5px;
+        font-size: 15px;
+        border-radius: 10px;
+        width: 280px;
+        margin-top: 10px;
+       
+    }
+
+   
+
+
+
+    img{
+        border-radius: 180px;
+        width: 110px;
+    }
+    
+    
+    
+input[type="button"]{
+    width: 200px;
+    padding-bottom: 8px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    background-color: #005b97;
+   
+}
+
+
+}
+
+/* @media(max-width:814px){
+
+    div.create-cta{
+        text-align: center;
+       padding-top: 20px;
+        color: white;
+        font-size: 40px;
+    }
+
+
+    
+input{
+    padding-top: 5px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 340px;
+    margin-top: 10px;
+   border-style: 0.5px solid black;
+   height: 30px;
+  
+}
+
+
+
+.icon{
+    border-radius: 150px;
+    width:150px;
+}
+
+input[type="button"]{
+    width: 250px;
+    padding-bottom: 40px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    background-color: #005b97;
+    font-size: 25px;
+    margin-top: 25px;
+   
+}
+} */
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
